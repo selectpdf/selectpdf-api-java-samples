@@ -3,7 +3,8 @@ import java.net.*;
 import java.util.*;
 
 /*
- * This code converts an url to pdf in Java using SelectPdf REST API through a GET request. The content is saved into a file on the disk.
+ * This code converts an url to pdf in Java using SelectPdf REST API through a GET request. 
+ * The content is saved into a file on the disk.
  *
  */
 public class TestSelectPdf1 {

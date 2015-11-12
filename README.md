@@ -6,3 +6,6 @@ SelectPdf HTML To PDF Online REST API is a professional solution that lets you c
 The API is easy to use and the integration takes only a few lines of code.
 
 SelectPdf [Html To Pdf](http://selectpdf.com) API can be called from any platform: Java, PHP, .NET, Ruby, Perl, etc.
+
+More details about [Html To Pdf Conversion in Java](http://selectpdf.com/web-html-to-pdf-rest-api-for-java-samples/) with SelectPdf, here:
+[http://selectpdf.com/web-html-to-pdf-rest-api-for-java-samples/](http://selectpdf.com/web-html-to-pdf-rest-api-for-java-samples/)
